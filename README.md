@@ -1,0 +1,2 @@
+# tork-estrategia
+Estrategia TORK
